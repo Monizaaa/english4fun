@@ -1,0 +1,24 @@
+
+
+@media screen and (orientation: portrait)
+{
+    body {
+        background-repeat: no-repeat;
+        background-image: url("../images/bgLogin-portrait.jpg");
+        background-color: #000;
+        background-attachment: fixed;
+        -webkit-background-size:cover;
+        background-size:cover;
+    }
+}
+@media screen and (orientation: landscape)
+{
+    body {
+        background-repeat: no-repeat;
+        background-image: url("../images/bgLogin-landscape.jpg");
+        background-color: #000;
+        background-attachment: fixed;
+        -webkit-background-size:cover;
+        background-size:cover;
+    }
+}
